@@ -1,7 +1,7 @@
 vim-setup
 ======
 
-My personal vim setup, used under Debian and Ubuntu environments.
+My personal vim setup, used under Debian 6.0 (Squeeze) and Ubuntu 12.04 (LTS) environments.
 
 Installation Notes:
 ---
@@ -16,4 +16,4 @@ Plugins Used:
 License
 ---
 
-Released unders the [MIT License] (http://opensource.org/licenses/MIT), 2013. Refer to the `LICENSE` file in the project's root directory.
+Released under the [MIT License] (http://opensource.org/licenses/MIT), 2013. Refer to the `LICENSE` file in the project's root directory.
